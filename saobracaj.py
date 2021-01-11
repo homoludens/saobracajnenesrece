@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 
-st.title('My first app')
+st.title('Belgrade Traffic Accidents 2018')
 
 
 
