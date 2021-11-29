@@ -14,9 +14,11 @@ Data from https://data.gov.rs/sr/datasets/podatsi-o-saobratshajnim-nezgodama-za-
     
 ## Run
 
-    $ stremlit run saobracaj.py
+    $ ./venv/bin/stremlit run saobracaj.py
     
     
-## Screenshot
+## Screenshots:
 
 ![traffic accidents map](screenshot.png)
+
+![traffic accidents map 3D](map_bar_3D.png)
