@@ -1,5 +1,4 @@
-# saobracaj nenesrece
-Belgrade traffic accidents map
+# Belgrade traffic accidents map
 
 Data from https://data.gov.rs/sr/datasets/podatsi-o-saobratshajnim-nezgodama-za-teritoriju-grada-beograda/
 
